@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sapikuda
-- 👜 I am currently work as Data Center IT Infrastructure Engineer at Huawei Indonesia
+- 👜 I am currently work as System Engineer at TikTok
 - 👀 I am interested in data center technologies, servers, enterprise storages, and NFV.
 - 🌱 I am currently learning cloud and automation.
 - 💞️ I am looking to collaborate on new tools for infrastructures.
